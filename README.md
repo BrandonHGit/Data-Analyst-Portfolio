@@ -1,3 +1,5 @@
 # Data-Analyst-Portfolio
 
-A beginning. Showcasing my self-taught data analytics skills among various software packages.
+A beginning. 
+
+Showcasing some working knowledge of SQL syntax - will be adding Tableau example soon.
