@@ -1,4 +1,5 @@
-/*Importing a pre-existing dataset from Kaggle.com 'https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023'*/
+/*Importing a pre-existing dataset from Kaggle.com: 
+'https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023'*/
 
 /*Create DB*/
 CREATE DATABASE YTGlobalStatistics;
