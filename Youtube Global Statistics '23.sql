@@ -122,8 +122,4 @@ SELECT DISTINCT country, SUM(subscribers) as total_subscribers
 FROM public.GlobalStatistics
 WHERE country IS NOT NULL
 GROUP BY country
-<<<<<<<< HEAD:Youtube Global Statistics '23.sql
 ORDER BY total_subscribers DESC;
-========
-ORDER BY total_subscribers DESC;
->>>>>>>> 82def8d79befff6eab63f3991a7011bd432d842f:Global Youtube Statistics '23
