@@ -123,5 +123,3 @@ FROM public.GlobalStatistics
 WHERE country IS NOT NULL
 GROUP BY country
 ORDER BY total_subscribers DESC;
-
-SELECT * FROM public.GlobalStatistics
