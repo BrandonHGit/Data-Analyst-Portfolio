@@ -1,5 +1,4 @@
-/*Importing a pre-existing dataset from Kaggle.com: 
-'https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023'*/
+/*Importing a pre-existing dataset from Kaggle.com 'https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023'*/
 
 /*Create DB*/
 CREATE DATABASE YTGlobalStatistics;
@@ -124,3 +123,5 @@ FROM public.GlobalStatistics
 WHERE country IS NOT NULL
 GROUP BY country
 ORDER BY total_subscribers DESC;
+
+SELECT * FROM public.GlobalStatistics
