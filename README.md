@@ -20,9 +20,9 @@ Hey! Thanks for stopping by my Git. This repository contains some examples of  S
 
 ![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/AirBnB_Copenhagen.PNG)
 
-* **Gold, Silver, and the S&P 500** [Tableau](https://public.tableau.com/app/profile/brandon.hindman/viz/GoldSilverSPVolumeTrendQuarterly/GoldandSilverVolumeTrend): Utilizing a sample dataset from Kaggle.com, I created two sample histograms which contain three scatterplots each. These six scatterplots were then organized into a single story. For this project I wanted to assess a popular claim by Wallstreet where investors tend to purchase greater quantities of metal indices (i.e. silver, and gold) during points of stock market uncertainty. I first approached this question in a more broad sense - annual comparisons, and then delve deeper into weekly stock fluctuations. Based on the graphics displayed, I can agree that volume in metal indices tends to fluctuate greatly immediately before/after the price of the S&P 500 jumps. 
+* **Gold, Silver, and the S&P 500** [Tableau](https://public.tableau.com/app/profile/brandon.hindman/viz/GoldSilverSPVolumeTrendQuarterly/GoldandSilverVolumeTrend): Utilizing a sample dataset from Kaggle.com, I created two sample histograms which contain three scatterplots each. These six scatterplots were then organized into a single story. For this project I wanted to assess a popular claim by Wallstreet where investors tend to purchase greater quantities of metal indices (i.e. silver, and gold) during points of stock market uncertainty. I first approached this question in a more broad sense - annual comparisons, and then delve deeper into weekly stock fluctuations. Based on the graphic displayed, I can agree that volume in metal indices tends to fluctuate greatly immediately before/after the price of the S&P 500 jumps. 
 
-![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/Gold%2C%20Silver%2C%20S%26P500%20Story.png)
+![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/Gold%2C%20Silver%2C%20and%20the%20S%26P500%20-%20Story.png)
 
 
 
