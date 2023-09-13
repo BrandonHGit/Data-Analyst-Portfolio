@@ -22,4 +22,4 @@ Hey! Thanks for stopping by my Git. This repository contains some examples of  S
 
 * **Gold, Silver, and the S&P 500** [Tableau](https://public.tableau.com/app/profile/brandon.hindman/viz/GoldSilverSPVolumeTrendQuarterly/GoldandSilverVolumeTrend): Utilizing a sample dataset from Kaggle.com, I created a collection of line graphs which compared average traded shares volume (per quarter) across three stocks: Gold, Silver, and the exchange-traded fund the S&P 500. Comparisons between both traded metal indices show very similar volume traded patterns. Conversely, the S&P 500 shows more varied fluctuations in comparison to the two metal indices. Frequently investors argue that gold/silver indices will show greater volume in response to a recession, implying a negative correlation between the S&P 500 and both metal indices - this is not shown in the present quarterly stock volume breakdown. 
 
-![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/Gold%2C%20Silver%2C%20S%26P%20Quarterly%20Trend.png)
+![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/Gold%2C%20Silver%2C%20S%26P500%20Quarterly%20Trend.png)
