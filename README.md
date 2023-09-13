@@ -20,6 +20,10 @@ Hey! Thanks for stopping by my Git. This repository contains some examples of  S
 
 ![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/AirBnB_Copenhagen.PNG)
 
-* **Gold, Silver, and the S&P 500** [Tableau](https://public.tableau.com/app/profile/brandon.hindman/viz/GoldSilverSPVolumeTrendQuarterly/GoldandSilverVolumeTrend): Utilizing a sample dataset from Kaggle.com, I created a collection of line graphs which compared average traded shares volume (per quarter) across three stocks: Gold, Silver, and the exchange-traded fund the S&P 500. Comparisons between both traded metal indices show very similar volume traded patterns. Conversely, the S&P 500 shows more varied fluctuations in comparison to the two metal indices. Frequently investors argue that gold/silver indices will show greater volume in response to a recession, implying a negative correlation between the S&P 500 and both metal indices - this is not shown in the present quarterly stock volume breakdown. 
+* **Gold, Silver, and the S&P 500** [Tableau](https://public.tableau.com/app/profile/brandon.hindman/viz/GoldSilverSPVolumeTrendQuarterly/GoldandSilverVolumeTrend): Utilizing a sample dataset from Kaggle.com, I created two sample histograms which contain three scatterplots each. These six scatterplots were then organized into a single story. For this project I wanted to assess a popular claim by Wallstreet where investors tend to purchase greater quantities of metal indices (i.e. silver, and gold) during points of stock market uncertainty. I first approached this question in a more broad sense - annual comparisons, and then delve deeper into weekly stock fluctuations. Based on the graphics displayed, I can agree that volume in metal indices tends to fluctuate greatly immediately before/after the price of the S&P 500 jumps. 
 
-![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/Gold%2C%20Silver%2C%20S%26P500%20Quarterly%20Trend.png)
+![alt text](https://github.com/BrandonHGit/Data-Analyst-Portfolio/blob/main/Media/Gold%2C%20Silver%2C%20S%26P500%20Story.png)
+
+
+
+          
