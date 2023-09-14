@@ -1,10 +1,10 @@
 # Brandon Hindman's Data Analyst Portfolio
 
-Hello! Thanks for stopping by my GitHub. This repository contains some examples of SQL and Tableau I have completed which showcase learned skills. My goal with this GitHub is to show employers my capacity to explore data and hopefully land a full-time data analyst (or similar) job. 
+Hello! Thanks for stopping by my GitHub. This repository contains some examples of SQL and Tableau I have completed. My goal with this GitHub is to show employers my capacity to explore data and hopefully land a full-time data analyst (or similar) job. 
 
 For my SQL projects: I begin by importing '.csv' files into PgAdmin4 by defining table parameters and adjusting import-type to include any unique characters. Afterwrds, I try to clean the data by compiling/extracting dates and removing null fields. Finally, I showcase some syntax to answer generic questions one may have regarding each project database. 
 
-For my Tableau projects: I try to work under a specific question/hypothesis and answer it to the best of my capacity utilizing 1-3 databases. Following importing of '.xlxs' files I then create multiple graphics. Once I get a good handle on the narrative I see in the data, I then integrate these graphics into a dashboard or a story and save them on my [tableau.public](https://public.tableau.com/app/profile/brandon.hindman)
+For my Tableau projects: I try to work under a specific question/hypothesis and answer it to the best of my capacity utilizing 1-3 databases. Following importing of '.xlxs' files I then create multiple graphics. Once I get a good handle on the narrative I see in the data, I then integrate these graphics into a dashboard or a story and save them on my [tableau.public](https://public.tableau.com/app/profile/brandon.hindman).
 
 Please feel free to look through this collection of example projects and [reach out](https://www.linkedin.com/in/brandon-h123/) if you have any questions or feedback.
 
